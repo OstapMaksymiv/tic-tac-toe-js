@@ -1,1 +1,1 @@
-# tic-tac-toe-js-
+https://github.com/OstapMaksymiv/tic-tac-toe-js-/blob/main/tic-tak-toe/index
